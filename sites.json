@@ -1,0 +1,34 @@
+{
+    "sites": [
+        "saysimple.com",
+        "saysimple.nl",
+        "saysimple.es",
+        "smm-test-smooch-api.saysimple-test.nl",
+        "messagegateway.saysimple-accept.nl",
+        "ss-aws-prod-mm-monitoring01.saysimple.network",
+        "ss-aws-zabbix01.saysimple.network",
+        "failover-api-prim.saysimple.io",
+        "gitlab.just-internet.nl",
+        "soap.netexpo.nl",
+        "servicedesk.faxservice.nl",
+        "sms.informaxion.nl",
+        "www.just-internet.support",
+        "media.mosadexgroep.nl",
+        "brandfiles.lucasbols.com",
+        "beeldbank.ivn.nl",
+        "medialibrary.tover.care",
+        "beeldbankoro.spiegel.nl",
+        "beeldbank.bovemij.nl",
+        "wildcard.onlinemediabank.nl",
+        "wildcard.use-cocoontest.nl",
+        "wildcard.use-cocoon.nl",
+        "wildcard.use-cocoon.es",
+        "wildcard.use-cocoon.com",
+        "wildcard.sv-imagebank.nl",
+        "wildcard.onlinebeeldbank.nl"
+    ],
+    "special": {
+        "wildcard.servicedesk.faxservice.nl": "16-06-2023",
+        "localhost.saysimple-test.nl": "18-11-2023"
+    }
+}
